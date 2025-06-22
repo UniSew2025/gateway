@@ -7,7 +7,6 @@ import org.springframework.web.cors.reactive.CorsWebFilter;
 import org.springframework.web.cors.reactive.UrlBasedCorsConfigurationSource;
 import org.springframework.web.util.pattern.PathPatternParser;
 
-import java.util.Arrays;
 import java.util.List;
 
 @Configuration
